@@ -11,3 +11,5 @@ Identifies and counts sentences.
 Usage:
 Enter text.
 Click "Calculate" to analyze.
+
+Purpose: Simplify word counting and text analysis tasks.
