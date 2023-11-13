@@ -1,0 +1,21 @@
+.glitter-background {
+    background: linear-gradient(90deg, rgb(8, 40, 122), rgb(70, 81, 225),   rgb(45, 98, 233),rgb(70, 81, 225), rgb(79, 87, 197), rgb(70, 81, 225), rgb(45, 98, 233), rgb(70, 81, 225),  rgb(6, 50, 163));
+    background-size: cover;
+    background-repeat: repeat;
+  }
+.text-info {
+    color: rgb(17, 2, 2);
+  }
+  
+  .custom-container {
+    background-color: rgb(18, 4, 128);
+    color: black;
+  }
+  .custom-button {
+    background-color: #015782; 
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    cursor: pointer;
+  }
