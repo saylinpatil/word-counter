@@ -8,7 +8,7 @@ Counts words in text.
 Calculates character count.
 Identifies and counts sentences.
 
-Usage:
+Usage: 
 Enter text.
 Click "Calculate" to analyze.
 
