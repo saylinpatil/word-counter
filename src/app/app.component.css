@@ -1,0 +1,15 @@
+.centered-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+  }
+  
+  .centered-heading h1 {
+    font-size: 45px;
+    color: rgb(5, 4, 44);
+    text-align: center;
+    padding: 20px; 
+    border-radius: 10px; 
+  }
+  
